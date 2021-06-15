@@ -6,3 +6,7 @@
 4. https://www.educative.io/edpresso/how-to-add-python-to-path-variable-in-windows
 5. type the following:
 6. python banner.py 
+7. open discordapp.com
+8. login
+9. click 3 dots, go to more tools -> devloper tools
+10. in the window click console and paste the code you found in a txt file in the same folder as banner.py
