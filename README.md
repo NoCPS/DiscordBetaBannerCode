@@ -10,3 +10,4 @@
 8. login
 9. click 3 dots, go to more tools -> devloper tools
 10. in the window click console and paste the code you found in a txt file in the same folder as banner.py
+11. open settings -> new expiremental window and turn on what you like 
